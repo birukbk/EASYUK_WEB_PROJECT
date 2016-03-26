@@ -35,7 +35,11 @@ body {
 /*---------------------------------------
            HEADER           
 -----------------------------------------*/
-
+#navContainer{
+    position: fixed;
+    position: right;
+    margin-left: 450px;
+}
 #home {
     background: url(../images/main-header.jpg) fixed;
     background-repeat: no-repeat;
@@ -321,7 +325,7 @@ body {
 /*--- counter ---*/
 
 .code-2 {
-    background: #e48c35;
+    background: #FFBE5A;
 }
 
 .code-2 i {
@@ -343,7 +347,7 @@ body {
 /*--- counter ---*/
 
 .code-3 {
-    background: #e37d33;
+    background: #CAC76F;
 }
 
 .code-3 i {
@@ -365,7 +369,7 @@ body {
 /*--- counter ---*/
 
 .code-4 {
-    background: #d36516;
+    background: #A9A04D;
 }
 
 .code-4 i {
